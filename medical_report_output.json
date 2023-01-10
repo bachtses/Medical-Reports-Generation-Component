@@ -1,0 +1,10 @@
+{
+    "medical_report": [
+        {
+            "var1": "",
+            "var2": "",
+            "var3": "",
+            "result": "\n[HNH:NH] The breasts appear to contain oncological findings for breast cancer with an abnormal mass or nodule. \n[BIR:3] A finding in this category has a very low (no more than 2%) chance of being cancer. It is not expected to change over time. But since it\u2019s not proven to be benign, it\u2019s helpful to be extra safe and see if the area in question does change over time. You will likely need follow-up with repeat imaging in 6 to 12 months and regularly after that until the finding is known to be stable (usually at least 2 years). \n[DEN:1] Breasts are almost all fatty tissue. Almost entirely fatty indicates that the breasts are almost entirely composed of fat. \n[STAG:3/4] Breast cancer of this stage means that the cancer has spread from the breast to lymph nodes close to the breast or to the skin of the breast or to the chest wall or the cancer has spread to other parts of the body. This is also called locally advanced breast cancer.\n[T:3] The tumor is bigger than 5 cm across. \n[N:1] The cancer cells have spread to one or more lymph nodes in the lower and middle part of the armpit. The lymph nodes move a little when they are felt and are not stuck to surrounding tissue. \n[M:1] The cancer has spread to another part of the body, seen on scans or felt by the doctor. \n[LOC:LBUL] The cancer appears to be located at the upper lobe of the left breast. "
+        }
+    ]
+}
